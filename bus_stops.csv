@@ -1,0 +1,6 @@
+id,lat,lon,name,operator,routes,streetview_url
+1001,12.9716,77.5946,Majestic Bus Stand,BMTC,"1,2,5,10","https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=12.9716,77.5946"
+1002,12.9784,77.6408,Indiranagar 100ft Rd,BMTC,"300G,314","https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=12.9784,77.6408"
+1003,12.9352,77.6245,Koramangala 5th Block,BMTC,"500C,550","https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=12.9352,77.6245"
+1004,13.0298,77.5792,Yeshwanthpur Circle,BMTC,"224,225","https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=13.0298,77.5792"
+1005,12.9259,77.5002,Banashankari Stage 2,BMTC,"37,37E","https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=12.9259,77.5002"
