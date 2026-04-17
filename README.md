@@ -2,9 +2,12 @@
 
 A beginner-friendly computer vision project that identifies transit stops (bus stops, tram stops, etc.) from street-level images using OpenStreetMap data and deep learning.
 
-> **GSoC Project in Progress** — Building toward a full transit stop identification system using YOLOv8 object detection + MobileNetV2 classification + OCR.
+##  Latest Update
+- Added real-world bus stop data using OpenStreetMap  
+- Built image collection pipeline using Street View API  
+- Preparing dataset for detection model (YOLO)  
 
----
+> **GSoC Project in Progress** — Building toward a full transit stop identification system using YOLOv8 object detection + MobileNetV2 classification + OCR.
 
 ## Project Overview
 
